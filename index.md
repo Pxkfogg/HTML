@@ -87,5 +87,62 @@
             <li>Apache
             </OL>
             <OL type="I" start=10>
-	
+	<a href="#skok_początek">kliknij aby skoczyć na początek tekstu</a>
+			<a href="#skok_środek">kliknij aby skoczyć na środek tekstu</a>
+			<a href="#skok_koniec">kliknij aby skoczyć na koniec tekstu</a>
+			<A href="poczta_Łuczak.html">poczta </A><br>
+			<A href="plik_Łuczak.html">plik </A><br>
+			<A href="tabela_Łuczak.html">tabela </A><br>
+			<A href="formularz_Łuczak.html">formularz </A><br>
+			<a name="skok_początek"></a>
+		    <font color="red"> Różne języki programowania
+<ol type=1 start=10>
+<li>python
+<li>javascript
+<li>c++
+</ol>
+<ol type=a start=10>
+<li>c
+<li>java
+<li>PHP
+</ol>
+<ol type=I start=10>
+<li>SQL
+<li>Ruby
+<li>Pearl
+</ol></font>
+<h1> Poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia<br><br>
+Ty zaproponuj swoje, związane z informatyką</h1>
+<font color="lightblue">Przykład
+<ol type=1 start=13>
+<li> Sieci komputerowe
+<ol type=A start=13>
+<li> Struktura sieci Internet
+<ol type=I start=13>
+<li> sieć lokalna
+<li>sieć szkieletowa
+<li> sieć lokalna
+</ol>
+<li> Protokół TCP/IP
+<ol type=I start=10>
+<li>Warstwa aplikacji
+<ol type=square>
+<li>nagłówek aplikacji
+<li>dane aplikacji
+</ol>
+<li>Warstwa transportowa
+<ol type=square>
+<li>nagłówek warstwy transportowej
+<li>nagłówek warstwy aplikacji
+<li>dane aplikacji
+</ol>
+<li>Warstwa internetu
+<ol type=I start=10>
+<li>nagłówek warstwy internetu
+<li>nagłówek wartswy transportowej
+<li>nagłówek warstwy aplikacji
+<li>dane aplikacji
+</ol>
+</UL>
+<a name="skok_koniec"></a>
 	</html>																									
